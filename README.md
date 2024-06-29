@@ -1,6 +1,3 @@
-</div>
-
-# <div align="center">Naive Bayes Classifier</div>
 <div align="center"><img src="ML Images/naive.png" width="100%"></div>
 
 ## Overview:
