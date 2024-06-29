@@ -35,6 +35,9 @@ Naïve Bayes is one of the most straightforward and fast classification algorith
 - Text classification
 - Sentiment analysis
 - Recommender systems
+<br><br><br>
+<hr/>
+<br><br><br>
 
 ## Dataset:
 [Adult Dataset](https://www.kaggle.com/qizarafzaal/adult-dataset)
@@ -187,11 +190,6 @@ Cross-validation scores:[0.81359649 0.80438596 0.81184211 0.80517771 0.79640193 
  0.81044318 0.81175954 0.80210619 0.81035996]
 ```
 
-
-### Learnings:
-`Feature endineering`
-`Feature Scaling`
-`Cardinality`
 <br><br><br>
 <h2 align="center">Conclusion</h2>
 <p>The Naive Bayes Classifier, with its basis in Bayes' theorem and the strong independence assumption, proves to be a powerful tool for classification tasks, particularly in textual data analysis and Natural Language Processing. Despite its simplicity, it delivers good performance across various applications, including spam filtering, text classification, sentiment analysis, and recommender systems.</p>
