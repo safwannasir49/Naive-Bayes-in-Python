@@ -1,7 +1,7 @@
 </div>
 
 # <div align="center">Naive Bayes Classifier</div>
-<div align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/04/Naive-Bayes-Algorithm.jpg" width="80%"></div>
+<div align="center"><img src="ML Images/naive.png" width="100%"></div>
 
 ## Overview:
 Naïve Bayes classification is a straightforward and powerful algorithm for the classification task. Naïve Bayes classification is based on applying Bayes’ theorem with strong independence assumption between the features. Naïve Bayes classification produces good results when we use it for textual data analysis such as Natural Language Processing.
